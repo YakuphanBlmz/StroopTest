@@ -1,6 +1,7 @@
 # 🧠 Stroop Testi Uygulaması
 
-![Uygulamanın arayüzünü gösteren ekran görüntüsü](image_2fb7fd.png)
+![Uygulamanın arayüzünü gösteren ekran görüntüsü](main.png)
+
 
 **Kelimeyi okuma, rengi söyle!**
 
