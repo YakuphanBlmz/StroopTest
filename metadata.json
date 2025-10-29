@@ -1,0 +1,5 @@
+{
+  "name": "Stroop Testi - Renk Oyunu",
+  "description": "Metnin rengini okumaya odaklanarak bilişsel esnekliğinizi ve tepki sürenizi test eden klasik bir Stroop Testi uygulaması. Kelimenin anlamını değil, metnin hangi renkte yazıldığını söylemeye çalışın. Hızı ayarlayarak zorluğu değiştirebilirsiniz.",
+  "requestFramePermissions": []
+}
